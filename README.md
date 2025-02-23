@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Maruf  
 
-<!--
-**MarufHossain14/MarufHossain14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science & Math** double major at **Wilfrid Laurier University**, passionate about **AI, machine learning, and differential equations**.  
 
-Here are some ideas to get you started:
+💡 **Interests:** Full-stack development, embedded systems, mathematical modeling.  
+🛠 **Tech Stack:** C, Rust, Assembly, Python, C++, Java | Next.js, Tailwind, Supabase | ML, Data Analysis  
+🎯 **Goals:** Research in **functional differential equations** & **mathematical biology**, mastering **Rust** & **ML**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:** [GitHub](https://github.com/MarufHossain14) | [LinkedIn](https://www.linkedin.com/in/maruf-hossain-wlu) | 📧 [Email](hossain186.maruf@gmail.com)
+
+## 📫 Let's Connect!
+
+<p align="center">
+    <a href="https://github.com/MarufHossain14"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/maruf-hossain-wlu"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="mailto:hossain186.maruf@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="Email"/></a>
+</p>
+
+![alt text](./images/bottom.svg)
