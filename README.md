@@ -1,3 +1,5 @@
+$$\bigstar \quad {\color{DarkOrchid}{\texttt{println!}}}({\color{CornflowerBlue}{\texttt{"Hello ✧ World!"}}}); \quad \bigstar$$
+
 # 👋 Hi, I'm Maruf  
 
 🚀 **Computer Science & Math** double major at **Wilfrid Laurier University**, passionate about **AI, machine learning, and differential equations**.  
