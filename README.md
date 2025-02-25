@@ -40,13 +40,15 @@
     <td align="center"><img src="https://img.icons8.com/nolan/64/sql.png"/><br>SQL</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="50"/><br>Firebase</td>
     <td align="center"><img src="https://img.icons8.com/nolan/64/nextjs.png"/><br>Next.js</td>
-    <td align="center"><img src="https://img.icons8.com/nolan/64/tailwind-css.png"/><br>Tailwind</td>
-    <td align="center"><img src="https://img.icons8.com/nolan/64/firebase.png"/><br>Firebase</td>
     <td align="center"><img src="https://img.icons8.com/nolan/64/docker.png"/><br>Docker</td>
     <td align="center"><img src="https://img.icons8.com/nolan/64/linux.png"/><br>Linux</td>
   </tr>
 </table>
+
+
 
 ---
 
