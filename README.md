@@ -4,16 +4,18 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 26px;">⭐ <span style="color:#8A2BE2;"><code>println!</code></span>
-    (<span style="color:#6495ED;"><code>"Hello ✧ World!"</code></span>); ⭐</span>
+    <span style="font-size: 28px;">✨ <code style="color:#8A2BE2;">println!</code>
+    (<code style="color:#6495ED;">"Hello, ✧ World!"</code>); ✨</span>
   </strong>
 </p>
+
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="450px">
+    <img src="images/11.png" width="500" alt="A pretty shorthaired calico cat reclining in a strong window sunbeam, glowing in the light with a stark contrast to the surrounding darkness." />
 </p>
+
 
 ---
 
@@ -61,7 +63,3 @@
 </p>
 
 ---
-
-<p align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="500">
-</p>
