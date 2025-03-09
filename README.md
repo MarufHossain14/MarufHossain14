@@ -3,31 +3,20 @@
 </h1>
 
 <p align="center">
-  <strong>
-    <span style="font-size: 28px;">✨ <code style="color:#8A2BE2;">println!</code>
-    (<code style="color:#6495ED;">"Hello, ✧ World!"</code>); ✨</span>
-  </strong>
+  <strong>✨ <code style="color:#8A2BE2;">println!</code>(<code style="color:#6495ED;">"Hello, ✧ World!"</code>); ✨</strong>
 </p>
-
-
----
-
-<p align="center">
-    <img src="images/11.png" width="500" alt="A pretty shorthaired calico cat reclining in a strong window sunbeam, glowing in the light with a stark contrast to the surrounding darkness." />
-</p>
-
 
 ---
 
 ## 🚀 About Me  
-🔬 **Computer Science & Math** major at **Wilfrid Laurier University**  
-📊 Passionate about **AI, Mathematical Modeling & ML Optimization**  
+🎓 **CS & Math** major at **Wilfrid Laurier University**  
+📊 Passionate about **AI, ML Optimization & Mathematical Modeling**  
 🔢 Researching **Functional Differential Equations & Mathematical Biology**  
 
-💡 **What I Love Building**:  
-- **AI-powered** applications with Rust & Python 🦀  
-- **Complex algorithmic challenges** (Competitive programming, Math-heavy models)  
-- **High-performance, low-level systems** using C++ and Rust  
+💡 **I Love Building**:  
+- AI-powered apps with **Rust & Python** 🦀  
+- Algorithm-heavy models & **competitive programming**  
+- High-performance systems with **C++ & Rust**  
 
 ---
 
@@ -50,16 +39,12 @@
   </tr>
 </table>
 
-
-
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
 <p align="center">
-    <a href="https://github.com/MarufHossain14"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/maruf-hossain-wlu"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="mailto:hossain186.maruf@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="Email"/></a>
+  <a href="https://github.com/MarufHossain14"><img src="https://img.icons8.com/bubbles/50/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/maruf-hossain-wlu"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:hossain186.maruf@gmail.com"><img src="https://img.icons8.com/bubbles/50/email.png" alt="Email"/></a>
 </p>
-
----
