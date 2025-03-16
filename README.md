@@ -1,19 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=👋+Hey%2C+I'm+Maruf!;AI+%7C+Math+%7C+Rust+%7C+ML+%7C+DE+🔢" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <strong>✨ <code style="color:#8A2BE2;">println!</code>(<code style="color:#6495ED;">"Hello, ✧ World!"</code>); ✨</strong>
-</p>
-
----
-
-## 🚀 About Me  
-🎓 **CS & Math** major at **Wilfrid Laurier University**  
-🧠 Passionate about **AI, ML, and Mathematical Modeling**  
-🦀 Love building **AI-powered apps, high-performance systems & algorithms**  
-📊 Researching **Functional Differential Equations & Mathematical Biology**  
- 
+<h1 align="center">Hey, I'm <span style="color:#F7B500;">Maruf</span></h1>
+<p align="center"><strong>🔹 Bridging AI, Mathematics, and High-Performance Systems for Scalable Solutions 🔹</strong></p>
 
 ---
 
