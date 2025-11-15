@@ -10,7 +10,8 @@
 </span>
 
 ---
-
+Specializing in systems design and architecture, with a growing interest in quantitative methods and the long-term goal of becoming a quant.
+---
 **Tech**  
 `C`  `C++`  `Python`  `Java`  `Go`  `SQL`  `Rust`  `Next.js`  `Tailwind CSS`  `Docker`  `Linux`  `Firebase`
 
