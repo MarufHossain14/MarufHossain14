@@ -9,5 +9,5 @@ Systems-focused Computer Science & Mathematics student at Wilfrid Laurier Univer
 `Linux` `Docker` `Next.js` `Tailwind` `Firebase`
 
 [GitHub](https://github.com/MarufHossain14) ·
-[LinkedIn](https://www.linkedin.com/in/maruf-hossain-wlu) ·
+[LinkedIn](https://www.linkedin.com/in/maruf-m-hossain) ·
 [Email](mailto:hossain186.maruf@gmail.com)
