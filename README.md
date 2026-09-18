@@ -1,13 +1,16 @@
 # Maruf Hossain
 
-Systems-focused Computer Science & Mathematics student at Wilfrid Laurier University.
+Computer Science & Mathematics student at Wilfrid Laurier University, focused on systems programming and backend engineering.
+
+Interested in operating systems, concurrency, networking, and building software that is efficient, reliable, and maintainable.
 
 **Languages**
-`C` `C++` `Python` `Go` `Java` `SQL` `Rust`
+`C` `C++` `Rust` `Go` `Python` `TypeScript` `SQL` `Bash`
 
-**Tools**
-`Linux` `Docker` `Next.js` `Tailwind` `Firebase`
+**Systems**
+`Linux` `POSIX` `TCP/IP` `Multithreading` `Socket Programming` `Memory Management`
 
-[GitHub](https://github.com/MarufHossain14) ·
-[LinkedIn](https://www.linkedin.com/in/maruf-m-hossain) ·
-[Email](mailto:hossain186.maruf@gmail.com)
+**Tooling**
+`Docker` `CMake` `GDB` `Valgrind` `GitHub Actions`
+
+[LinkedIn](https://www.linkedin.com/in/maruf-m-hossain) · [Email](mailto:hossain186.maruf@gmail.com)
